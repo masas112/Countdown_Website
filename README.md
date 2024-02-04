@@ -12,7 +12,7 @@ This TamperMonkey UserScript, named "Countdown Website" provides a countdown fun
    - [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
    - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
 2. **Install the Script**:
-   [Click Here and Press Install](https://github.com/masas112/Countdown_Website/blob/main/Countdown_Website.js?raw=True).
+   [Click Here and Press Install](Countdown_Website.js?raw=True).
 3. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
