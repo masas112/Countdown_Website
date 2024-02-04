@@ -4,7 +4,7 @@
 // @version      2024-02-04
 // @description  try to take over the world!
 // @author       You
-// @match        https://docs.google.com/forms/d/e/1FAIpQLSeWZ_cCuAoTlAsvKFgB_fEyKD0SfMUOxCQt5oY7uZRf7_6V0g/viewform
+// @match        https://docs.google.com/forms/d/e/*/viewform
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // ==/UserScript==
