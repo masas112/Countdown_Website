@@ -38,13 +38,13 @@ This TamperMonkey UserScript, named "Countdown Website" provides a countdown fun
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
 ## Example Images
-- *Test Google Drive Form Page:* https://docs.google.com/forms/d/e/1FAIpQLSeWZ_cCuAoTlAsvKFgB_fEyKD0SfMUOxCQt5oY7uZRf7_6V0g/viewform
+- *Test Google Drive Form Page:* [Form Page](https://docs.google.com/forms/d/e/1FAIpQLSeWZ_cCuAoTlAsvKFgB_fEyKD0SfMUOxCQt5oY7uZRf7_6V0g/viewform)
 
 - *Start Button:* ![image](https://github.com/masas112/Countdown_Website/assets/42193210/a80ab736-4300-459d-ad89-9297a415cb9c)
 
-- *Countdown Display:* ![image](https://github.com/masas112/Countdown_Website/assets/42193210/1bcc1a89-5cca-484b-b1b2-278e5ea84ce0)
+- *Countdown Display:* ![image](https://github.com/masas112/Countdown_Website/assets/42193210/151b2fb6-9483-4e3e-8c6a-94e0547a6888)
 
-- *Unlock Display:* ![image](https://github.com/masas112/Countdown_Website/assets/42193210/a8b39a11-65f3-479c-a156-f21e6fcba17a)
+- *Unlock Display:* ![image](https://github.com/masas112/Countdown_Website/assets/42193210/4455a9dc-fa5b-4674-9e8f-5fb7aca9f5ea)
 
 
 Feel free to customize the script according to your preferences and requirements. For more information, visit [MasAS GitHub Profile](https://github.com/masas112).
