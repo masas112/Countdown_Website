@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Project JavaScript by MasAS
+// @name         Countdown Website
 // @namespace    http://tampermonkey.net/
-// @version      2024-02-04
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  Bismillahirrahmanirrahim!!
+// @author       Muhamad Asrori
 // @match        https://docs.google.com/forms/d/e/*/viewform
+// @updateURL    https://github.com/masas112/Countdown_Website/blob/main/Countdown_Website.js
+// @downloadURL  https://github.com/masas112/Countdown_Website/blob/main/Countdown_Website.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // ==/UserScript==
@@ -97,7 +99,7 @@
         finishButton.style.borderRadius = "10px";
         finishButton.style.boxShadow = "0 6px #999";
         finishButton.onclick = function() {
-            waktuSisa = 1;
+            waktuSisa = 0;
         }
 
 
@@ -205,7 +207,7 @@
 
                 var textCopyright = document.createElement("label");
                 textCopyright.innerText = "\n\n\nPowered By : ";
-                textCopyright.style.fontWeight = "bold";
+                //textCopyright.style.fontWeight = "bold";
                 textCopyright.style.textAlign = "center";
                 textCopyright.style.display = "block";
                 passwordForm.appendChild(textCopyright);
