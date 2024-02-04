@@ -1,7 +1,7 @@
 # Countdown Website
 
 ## Overview
-This TamperMonkey UserScript, named "Project JavaScript by MasAS," provides a countdown functionality with additional features. The script is designed to be executed on a specific Google Forms page.
+This TamperMonkey UserScript, named "Countdown Website," provides a countdown functionality with additional features. The script is designed to be executed on a specific Google Forms page.
 
 ## Features
 1. **Start Button:** The script initiates with a "MULAI" (Start) button that, when clicked, triggers the countdown and hides the start button.
