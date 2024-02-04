@@ -24,10 +24,18 @@ This TamperMonkey UserScript, named "Countdown Website" provides a countdown fun
 - **Button Styles:** The script uses stylish buttons for both the start and finish buttons. Buttons have a vibrant color scheme and interactive hover effects.
 - **Responsive Design:** Buttons are designed to be responsive and visually appealing.
 
-## Instructions
-1. **Installation:** Install TamperMonkey browser extension.
-2. **Script Execution:** Add this script to TamperMonkey and configure it to run on the specified Google Forms URL.
-3. **Usage:** Visit the designated Google Forms page and click the "MULAI" button to start the countdown.
+## Installation
+
+1. **Install Tampermonkey**:
+   If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
+   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+   - [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+   - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
+2. **Install the Script**:
+   [Click Here and Press Install](https://github.com/masas112/Countdown_Website/blob/main/Countdown_Website.js?raw=True).
+3. **Enable the Script**:
+   Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
 ## Example Images
 - *Test Google Drive Form Page:* https://docs.google.com/forms/d/e/1FAIpQLSeWZ_cCuAoTlAsvKFgB_fEyKD0SfMUOxCQt5oY7uZRf7_6V0g/viewform
